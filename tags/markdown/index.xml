@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Markdown on Cleefun</title>
+    <link>/tags/markdown/</link>
+    <description>Recent content in Markdown on Cleefun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Cleefun</copyright>
+    <lastBuildDate>Sun, 29 Oct 2023 17:13:49 +0800</lastBuildDate><atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown 语法测试</title>
+      <link>/posts/markdown-test/</link>
+      <pubDate>Sun, 29 Oct 2023 17:13:49 +0800</pubDate>
+      
+      <guid>/posts/markdown-test/</guid>
+      <description>测试 Markdown 语法的支持程度。</description>
+    </item>
+    
+  </channel>
+</rss>
